@@ -1,6 +1,6 @@
 /*
  * Conexión simple a WiFi
- * Por: Hugo Escalpelo
+ * Por: VBV
  * Fecha: 27 de junio de 2021
  * 
  * Este programa muestra una conexión básica a WiFi para 
